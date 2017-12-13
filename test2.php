@@ -1,3 +1,3 @@
 <?php
-echo "Invat la GIT-test 2";
+echo "Invat la GIT-test 2 wqweweq";
 ?> 
